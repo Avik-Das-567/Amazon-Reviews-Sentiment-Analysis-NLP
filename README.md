@@ -1,4 +1,4 @@
-# Amazon Reviews Sentiment Analysis | NLP
+# Amazon Reviews Sentiment Analysis using NLP
 
 ## Overview
 
